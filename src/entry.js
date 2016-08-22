@@ -5,15 +5,3 @@ import '.styles/app.scss'
 
 
 render(<App/>, document.getElementById('main'))
-
-// class HelloWorld extends Component {
-
-//   render() {
-
-//     return (
-//       <div>
-//         Hello World!
-//       </div>
-//     )
-//   }
-// }
